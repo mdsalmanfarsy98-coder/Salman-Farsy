@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    margin-top: 100px;
+    font-family: Arial ;
+    background-color: lightblue;
+}
+h1 {
+    color:blueviolet
+}
+p {
+    font-size:20px ;
+}
+button {
+background-color: blue;
+color: white;
+padding: 12px 25px;
+border: navy;
+border-radius: 8px;
+font-size: 18px;
+}
